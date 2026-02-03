@@ -84,7 +84,9 @@ An executive-ready Streamlit dashboard provides:
 - Revenue leakage breakdown by root cause
 - CLV distribution across customer segments
 - Clear, finance-focused visual storytelling
-- <img width="851" height="796" alt="image" src="https://github.com/user-attachments/assets/141f20cd-0651-4244-b7b9-81d837a62c98" />
+- <img width="1918" height="1048" alt="image" src="https://github.com/user-attachments/assets/25fcb696-1cf7-4321-9952-e7db419adc7a" />
+<img width="1913" height="1067" alt="image" src="https://github.com/user-attachments/assets/96951d18-5edb-4008-bb06-6d040e1aeb9b" />
+
 
 
 ---
