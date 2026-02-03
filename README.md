@@ -128,4 +128,7 @@ Deployment entry file:
 src/visualization/dashboard.py
 
 ---
+<img width="851" height="796" alt="image" src="https://github.com/user-attachments/assets/8bed9843-31e1-489b-9268-52c79bee92f0" />
+
+
 
